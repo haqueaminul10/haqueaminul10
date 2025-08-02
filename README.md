@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Aminul+Haque;Software+Engineer+at+LankaBangla+Securities+PLC&font=Fira%20Code&center=true&width=600&height=50&duration=2000&pause=1000&size=18" alt="Aminul Haque - Software Engineer">
 </p>
 
-
+<hr/>
 <p>
   👨‍💻 Development Experience
 </p>
