@@ -5,6 +5,26 @@
 </p>
 
 # Developer Experience
+With hands-on experience in **React.js**, **Next.js**, and the **MERN stack**, I build fast, scalable web applications and real-time systems for startups and enterprises.
+
+Currently working as a **Full-Stack JavaScript Developer** with strong expertise in modern web & cloud technologies, while expanding into **C#**, **.NET**, and cross-platform mobile development.
+
+**I specialize in:**
+
+- High-performance frontend architecture using **React.js** · **Next.js** · **TypeScript**
+- Backend systems with **Node.js** · **Express** · **GraphQL** (Apollo + AWS AppSync)
+- Real-time applications powered by **Socket.IO** and WebSockets
+- Cloud infrastructure on **AWS** (S3 · Lambda · AppSync · CloudFront)
+- Databases: **MySQL** · **PostgreSQL** · **MongoDB** · **DynamoDB**
+- Cross-platform mobile apps using **React Native** (iOS & Android) – actively building
+- Currently mastering **C#** · **.NET 8** · **ASP.NET Core** · **Entity Framework Core**
+
+**Future focus:**  
+Building enterprise-grade solutions with **.NET** ecosystem and native-like mobile experiences using **React Native** and potentially **.NET MAUI**.
+
+Clean code | Performance-first | Real-time & scalable systems enthusiast
+
+Let’s build something amazing together! 🚀
 
 
 <!--
